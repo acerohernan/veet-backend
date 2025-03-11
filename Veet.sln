@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veet.Api", "Veet.Api\Veet.Api.csproj", "{F5C0BFEC-511D-4C29-9C7A-95A4270CFAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5C0BFEC-511D-4C29-9C7A-95A4270CFAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C0BFEC-511D-4C29-9C7A-95A4270CFAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C0BFEC-511D-4C29-9C7A-95A4270CFAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C0BFEC-511D-4C29-9C7A-95A4270CFAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C0D607-8C54-45F8-B651-06BA11035B9F}
+	EndGlobalSection
+EndGlobal
