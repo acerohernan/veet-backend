@@ -1,6 +1,6 @@
 @Veet.Api_HostAddress = http://localhost:5132
 
-GET {{Veet.Api_HostAddress}}/weatherforecast/
+GET {{Veet.Api_HostAddress}}/status
 Accept: application/json
 
 ###
